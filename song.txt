@@ -3,9 +3,3 @@ cannibal
 satan
 autopsy
 zombie
-
-cannibal
-satan
-
-autopsy
-zombie
